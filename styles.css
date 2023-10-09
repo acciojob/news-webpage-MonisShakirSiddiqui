@@ -14,16 +14,24 @@
 }
 .latest-news-section{
 	padding: 10px;
-	border: 1px solid black;
+	border: 1px solid white;
 	background-color: white;
 	border-radius: 10px;
 }
 .latest-news-section2{
 	padding: 10px;
-	border: 1px solid black;
+	border: 1px solid white;
 	background-color: white;
 	border-radius: 10px;
 }
 .latest-news-section2>h2{
 	text-align: center;
+}
+.pictorial-news-section{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+#container{
+	display: flex;
 }
